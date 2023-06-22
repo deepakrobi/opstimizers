@@ -51,17 +51,17 @@ $(window).on('keydown', function(e) {
 
 var Fake = [
   'Hi there, I\'m Opstimizer and you?',
-  'Nice to meet you, what i can do for you today?',
-  'Sure, let me get that for you....',
+  'May the Force be with you, what i can do for you today?',
+  "click <a href=\'result'\' target='_blank'>here</a> to see result",
   'What do you do?',
   'That\'s awesome',
-  'Codepen is a nice place to stay',
+  'OneTrust is a nice place to work',
   'I think you\'re a nice person',
   'Why do you think that?',
   'Can you explain?',
   'Anyway I\'ve gotta go now',
   'It was a pleasure chat with you',
-  'Time to make a new codepen',
+  'Time to break a leg',
   'Bye',
   ':)'
 ]

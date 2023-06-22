@@ -26,6 +26,11 @@ def hello():
    else:
        print('Request for hello page received with no name or blank name -- redirecting')
        return redirect(url_for('index'))
+   
+@app.route('/result', methods=['GET','POST'])
+def result(): 
+       return render_template('result.html')
+  
 
 
 if __name__ == '__main__':
